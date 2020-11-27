@@ -38,6 +38,22 @@
 
 </details>
 
+<br>
+
+---
+
+<br />
+
+<details>
+  <summary>Most used languages</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosoli&theme=default)
+
+</details>
+
+
+
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
