@@ -29,22 +29,11 @@
 
 ---
 
-<br />
-
-### GitHub Stats
+<br>
 
 <img align="left" alt="leosoli's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leosoli&show_icons=true&hide_border=true" />
 
 
-<br>
-<br>
-
----
-
-<br>
-<br>
-
-### Most used languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosoli&theme=default)
 
