@@ -31,25 +31,24 @@
 
 <br />
 
-<details>
-  <summary>GitHub Stats</summary>
+### GitHub Stats
 
-  <img align="left" alt="leosoli's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leosoli&show_icons=true&hide_border=true" />
+<img align="left" alt="leosoli's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=leosoli&show_icons=true&hide_border=true" />
 
-</details>
 
+<br>
 <br>
 
 ---
 
-<br />
+<br>
+<br>
 
-<details>
-  <summary>Most used languages</summary>
+### Most used languages
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosoli&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosoli&theme=default)
 
-</details>
+
 
 
 
