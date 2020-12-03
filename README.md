@@ -7,7 +7,7 @@
 
 <br />
 
-## I'm currently graduating in Information and Aerospace Engineering
+## I'm currently graduating in Information Engineering and Aerospace Engineering
 
 <br />
 
